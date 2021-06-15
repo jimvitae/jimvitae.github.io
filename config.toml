@@ -1,0 +1,4 @@
+baseURL = "http://jimvitae.github.io/"
+languageCode = "en-us"
+title = "Jim @ Invitae Blog"
+theme = "ananke"
